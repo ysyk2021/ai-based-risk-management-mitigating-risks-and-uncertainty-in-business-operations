@@ -1,4 +1,4 @@
-Chapter: AI-Based Risk Management Techniques and Strategies
+AI-Based Risk Management Techniques and Strategies
 ===========================================================
 
 AI-based risk management techniques and strategies are becoming increasingly important in mitigating risks and uncertainty in business operations. In this chapter, we'll provide an overview of some of the AI-based risk management techniques and strategies that businesses can use to identify potential risks and develop effective risk mitigation strategies.

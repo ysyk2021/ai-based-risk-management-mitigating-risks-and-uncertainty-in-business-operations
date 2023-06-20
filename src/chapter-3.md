@@ -1,4 +1,4 @@
-Chapter: Artificial Intelligence in Risk Management
+Artificial Intelligence in Risk Management
 ===================================================
 
 Artificial intelligence (AI) is becoming an increasingly valuable tool for risk management, enabling businesses to identify and mitigate potential risks more effectively. In this chapter, we'll explore the types of AI used in risk management, their advantages and limitations, and case studies on their use.

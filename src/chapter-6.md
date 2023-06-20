@@ -1,4 +1,4 @@
-Chapter: Ethical Considerations
+Ethical Considerations
 ===============================
 
 The use of artificial intelligence (AI) in risk management offers significant potential benefits, but it also raises ethical concerns around data privacy, bias, and accountability. In this chapter, we'll explore some of the key ethical considerations associated with the use of AI in risk management.

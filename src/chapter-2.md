@@ -1,4 +1,4 @@
-Chapter: Understanding Risk Management
+Understanding Risk Management
 ======================================
 
 Effective risk management is essential for businesses to operate with confidence in an ever-changing landscape. In this chapter, we'll explore the basics of risk management, traditional approaches to risk management, and their limitations and challenges.
