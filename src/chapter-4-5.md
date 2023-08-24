@@ -1,5 +1,3 @@
-Social Media and Web Monitoring
-==========================================================================================
 
 Social media and web monitoring are valuable tools for effective risk management. In this chapter, we'll explore the importance of social media and web monitoring in risk management and provide an overview of best practices.
 

@@ -1,5 +1,3 @@
-Prediction and Forecasting Models
-============================================================================================
 
 Prediction and forecasting models are powerful tools for effective risk management. In this chapter, we'll explore the importance of prediction and forecasting models in risk management and provide an overview of best practices.
 

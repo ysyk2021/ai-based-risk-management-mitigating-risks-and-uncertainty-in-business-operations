@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Risk Management
-================================================================================================
 
 As AI-based risk management becomes more prevalent, it's important to consider the ethical issues associated with its use. In this chapter, we'll explore some of the key ethical issues associated with the use of AI in risk management.
 

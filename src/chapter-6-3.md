@@ -1,5 +1,3 @@
-Future Directions and Challenges
-=================================================================
 
 As AI-based risk management continues to evolve, new ethical considerations will arise. In this chapter, we'll explore some potential future directions and challenges in AI-based risk management.
 

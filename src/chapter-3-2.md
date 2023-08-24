@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Risk Management
-========================================================================================================
 
 Artificial intelligence (AI) is transforming risk management, enabling businesses to identify potential risks more effectively and efficiently. However, like any technology, AI has its advantages and limitations when it comes to risk management.
 

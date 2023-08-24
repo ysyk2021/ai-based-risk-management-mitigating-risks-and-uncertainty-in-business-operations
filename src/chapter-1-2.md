@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Risk Management
-==================================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that is transforming the way businesses operate. One area where AI is having a significant impact is in risk management, enabling businesses to identify potential risks more effectively and efficiently. In this chapter, we'll provide an overview of AI and its applications in risk management.
 

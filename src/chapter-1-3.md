@@ -1,5 +1,3 @@
-Objectives of the Book
-===========================================================
 
 Risk management is a critical aspect of business operations, and the emergence of artificial intelligence (AI) has opened up new possibilities for identifying potential risks more effectively and efficiently. The objective of this book is to provide an overview of AI-based risk management, including its applications, benefits, limitations, and ethical considerations.
 

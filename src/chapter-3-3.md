@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Risk Management
-=====================================================================================================
 
 Artificial intelligence (AI) is transforming risk management, enabling businesses to identify potential risks more effectively and efficiently. In this chapter, we'll explore some case studies on the use of AI in risk management, highlighting how businesses are leveraging AI-powered tools and techniques to manage potential risks and uncertainty.
 

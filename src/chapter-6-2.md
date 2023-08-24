@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Risk Management
-==========================================================================================================
 
 While AI-based risk management can offer significant benefits to businesses, it's important to ensure that these systems are designed and implemented ethically and responsibly. In this chapter, we'll explore some best practices for ensuring ethical and responsible AI in risk management.
 

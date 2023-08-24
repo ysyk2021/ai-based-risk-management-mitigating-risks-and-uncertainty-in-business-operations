@@ -1,5 +1,3 @@
-Traditional Approaches to Risk Management
-=================================================================================
 
 Traditional approaches to risk management have been used by businesses for many years to identify and mitigate potential risks. In this chapter, we'll explore some of the traditional approaches to risk management.
 

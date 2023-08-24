@@ -1,5 +1,3 @@
-Overview of Risk Management
-===================================================================
 
 Risk management is a critical process for businesses to identify, assess, and mitigate potential risks that could impact their operations. In this chapter, we'll provide an overview of risk management and its importance in business operations.
 

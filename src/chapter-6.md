@@ -1,5 +1,3 @@
-Ethical Considerations
-===============================
 
 The use of artificial intelligence (AI) in risk management offers significant potential benefits, but it also raises ethical concerns around data privacy, bias, and accountability. In this chapter, we'll explore some of the key ethical considerations associated with the use of AI in risk management.
 
@@ -48,5 +46,4 @@ Conclusion
 ----------
 
 The use of AI in risk management offers significant potential benefits, but it also raises ethical concerns around data privacy, bias, and accountability. By following best practices for ethical and responsible AI, businesses can harness the power of AI while ensuring that they comply with relevant regulations and laws and maintain ethical standards.
-
 

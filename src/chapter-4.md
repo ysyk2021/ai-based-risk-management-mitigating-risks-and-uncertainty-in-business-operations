@@ -1,5 +1,3 @@
-Data Collection and Analysis for Risk Management
-=========================================================
 
 Effective risk management requires the collection and analysis of large amounts of data. The emergence of artificial intelligence (AI) has opened up new possibilities for data collection and analysis, enabling businesses to identify potential risks more effectively and efficiently. In this chapter, we'll explore some of the key data collection and analysis techniques and strategies for risk management.
 

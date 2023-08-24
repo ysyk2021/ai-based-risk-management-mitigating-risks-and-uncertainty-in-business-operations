@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Risk Management
-===============================================================================================================================
 
 Artificial intelligence (AI) is transforming risk management, enabling businesses to identify potential risks more effectively and efficiently. There are different types of AI that can be used for risk management, each with its own strengths and weaknesses. In this chapter, we'll explore the types of AI and their applications in risk management.
 

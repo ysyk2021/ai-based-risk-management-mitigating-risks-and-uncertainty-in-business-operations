@@ -1,5 +1,3 @@
-Real-Time Data Processing and Analysis
-=================================================================================================
 
 Real-time data processing and analysis is becoming increasingly important in risk management. In this chapter, we'll explore the importance of real-time data processing and analysis in risk management and provide an overview of best practices.
 

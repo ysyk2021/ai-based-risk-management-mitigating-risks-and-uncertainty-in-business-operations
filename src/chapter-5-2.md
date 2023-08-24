@@ -1,5 +1,3 @@
-Anomaly Detection and Fraud Prevention
-===================================================================================================
 
 AI-based risk management techniques and strategies are becoming increasingly important in mitigating risks and uncertainty in business operations. In this chapter, we'll explore some of the techniques and strategies that businesses can use to detect anomalies and prevent fraud using AI.
 

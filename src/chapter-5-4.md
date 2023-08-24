@@ -1,5 +1,3 @@
-Supply Chain and Operational Risk Management
-=========================================================================================================
 
 Supply chain and operational risk management involve identifying potential risks and uncertainties in the supply chain and operational processes. The emergence of artificial intelligence (AI) has opened up new possibilities for supply chain and operational risk management, enabling businesses to identify potential risks more effectively and efficiently.
 
