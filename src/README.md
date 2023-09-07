@@ -10,3 +10,7 @@ The book concludes with case studies showcasing real-world applications of AI-ba
 Overall, this book serves as a guide for businesses that want to leverage the power of AI to manage potential risks and uncertainty in their operations while ensuring ethical and responsible use of AI.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
